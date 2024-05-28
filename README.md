@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate software engineer living in Stirl
 My journey in technology started with my studies at Glasgow Kelvin College, where I learnt the fundamentals of Computer Science in depth. After moving to the Software Engineering department at the University of Glasgow, I started to focus more on DevOps and software development practices.
 
 ## 🌐 Languages
-- Proficient in English and fluent in two other languages, which enhances my ability to collaborate internationally.
+- Proficient in English and fluent in two other languages (Russian and Ukrainian), which enhances my ability to collaborate internationally.
 
 ## 📫 How to Reach Me
 - **Email**: [matveievp@gmail.com]

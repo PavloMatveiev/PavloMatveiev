@@ -3,8 +3,8 @@
 Welcome to my GitHub profile! I'm a passionate software engineer living in Stirling and currently studying at the University of Glasgow. With a strong foundation in both theory and practical skills, I aim to combine creativity with technology to develop innovative solutions.
 
 ## 🛠 Skills & Expertise
-- **Programming Languages**: Proficient in Python and JavaScript.
-- **DevOps Tools**: Experienced with Docker, GitLab CI, and Jenkins for continuous integration and deployment.
+- **Programming Languages**: Proficient in Python, JavaScript and Kotlin.
+- **DevOps Tools**: Experienced with Docker and GitLab CI for continuous integration and deployment.
 - **Networking**: Skilled in building and managing networks including LAN, WAN, and WLAN.
 - **Hardware**: Competent in hardware setup and troubleshooting.
 

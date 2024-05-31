@@ -1,6 +1,6 @@
 # Hello, I'm Pavlo! 👋
 
-Welcome to my GitHub profile! I'm a passionate software engineer living in Stirling and currently studying at the University of Glasgow. With a strong foundation in both theory and practical skills, I aim to combine creativity with technology to develop innovative solutions.
+Welcome to my GitHub profile! I'm a Ukrainian Software Engineering student at the University of Glasgow. I have a background in DevOps and software development. Having graduated from Glasgow Kelvin College with an A Level in HNC Computing, I have a strong combination of theoretical knowledge and practical skills.
 
 ## 🛠 Skills & Expertise
 - **Programming Languages**: Proficient in Python, JavaScript and Kotlin.

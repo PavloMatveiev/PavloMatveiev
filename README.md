@@ -28,7 +28,7 @@ Repo: <a href="https://github.com/PavloMatveiev/Todo-App-project-FastAPI-React-D
 - Backend: FastAPI + Pydantic + SQLAlchemy; passwords via bcrypt; role enforced server-side  
 - Infra: **Docker Compose** (frontend, backend, Postgres, pgAdmin); clear README & curl smoke tests
 
-> *Coursework note:* I built a similar SPA/API stack for university coursework (FastAPI + React + OAuth2/JWT, Argon2ID, SQLAlchemy). Code is private due to IP rules; this public project extends the idea with Dockerization.
+> *Coursework note:* I built a similar SPA/API stack for college coursework (FastAPI + React + OAuth2/JWT, Argon2ID, SQLAlchemy). Code is private due to IP rules; this public project extends the idea with Dockerization.
 
 ---
 

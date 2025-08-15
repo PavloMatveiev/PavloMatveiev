@@ -64,4 +64,4 @@ One-to-one and group tutoring for learners 50+: devices, apps, digital literacy.
 ### 📫 Get in touch
 - LinkedIn: <a href="https://www.linkedin.com/in/pavlo-matveiev">pavlo-matveiev</a>  
 - Email: <a href="mailto:matveievp@gmail.com">matveievp@gmail.com</a>  
-[Download CV (PDF)](https://github.com/PavloMatveiev/PavloMatveiev/releases/download/v1-cv/Pavlo_Matveiev_CV.pdf)
+[Download CV (PDF)](https://github.com/PavloMatveiev/PavloMatveiev/releases/download/v1-cv/Pavlo.Matveiev.CV.pdf)

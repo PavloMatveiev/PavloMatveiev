@@ -14,7 +14,7 @@
 ---
 
 ### 🎯 What I’m focused on
-- **12-month placement (2026–2027)** — applying to BlackRock’s EMEA Placement Programme.
+- **12-month placement (2026–2027)**
 - Shipping production-minded full-stack apps with clean APIs, **OAuth2/JWT**, and containerized infra.
 
 ---
